@@ -37,3 +37,13 @@ It can run on XAMPP local hosting or any static host (GitHub Pages, Netlify stat
 Languages and technologies are HTML5 and CSS3 (with external font loading).
 JavaScript is technically present in the root version (script.js) but currently empty, so the interactive behavior is mostly achieved via HTML/CSS (anchor navigation, hover states, responsive layout, etc.).
 Overall, Gulabi Diaries is a completed static personal-brand portfolio with strong visual design and mobile-ready structure.
+
+# OUTPUT
+
+<img width="1897" height="828" alt="Image" src="https://github.com/user-attachments/assets/46470bdc-c220-45ac-bff6-780c1f3af379" />
+
+<img width="1919" height="433" alt="Image" src="https://github.com/user-attachments/assets/e70db12d-a7ee-4dc2-98a4-de4e1959d3d7" />
+
+<img width="1914" height="837" alt="Image" src="https://github.com/user-attachments/assets/c166e305-9068-4141-afe4-b6b0d59bc664" />
+
+<img width="1919" height="927" alt="Image" src="https://github.com/user-attachments/assets/3f32c04c-10c2-40e4-967a-89dc594e7cf4" />
